@@ -65,17 +65,14 @@ class Program
         }
                 bool CheckWin(char[][] m)
                 {
-                    // строки
                     for (int i = 0; i < 3; i++)
                         if (m[i][0] == m[i][1] && m[i][1] == m[i][2])
                             return true;
-
-                    // столбцы
+                    
                     for (int j = 0; j < 3; j++)
                         if (m[0][j] == m[1][j] && m[1][j] == m[2][j])
                             return true;
-
-                    // диагонали
+                    
                     if (m[0][0] == m[1][1] && m[1][1] == m[2][2])
                         return true;
 
