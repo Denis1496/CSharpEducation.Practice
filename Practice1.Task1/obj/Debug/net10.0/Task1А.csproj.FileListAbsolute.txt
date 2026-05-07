@@ -1,0 +1,15 @@
+D:\CSharpEducation\CSharpEducation.Practice\Task1А\bin\Debug\net10.0\Task1А.exe
+D:\CSharpEducation\CSharpEducation.Practice\Task1А\bin\Debug\net10.0\Task1А.deps.json
+D:\CSharpEducation\CSharpEducation.Practice\Task1А\bin\Debug\net10.0\Task1А.runtimeconfig.json
+D:\CSharpEducation\CSharpEducation.Practice\Task1А\bin\Debug\net10.0\Task1А.dll
+D:\CSharpEducation\CSharpEducation.Practice\Task1А\bin\Debug\net10.0\Task1А.pdb
+D:\CSharpEducation\CSharpEducation.Practice\Task1А\obj\Debug\net10.0\Task1А.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpEducation\CSharpEducation.Practice\Task1А\obj\Debug\net10.0\Task1А.AssemblyInfoInputs.cache
+D:\CSharpEducation\CSharpEducation.Practice\Task1А\obj\Debug\net10.0\Task1А.AssemblyInfo.cs
+D:\CSharpEducation\CSharpEducation.Practice\Task1А\obj\Debug\net10.0\Task1А.csproj.CoreCompileInputs.cache
+D:\CSharpEducation\CSharpEducation.Practice\Task1А\obj\Debug\net10.0\Task1А.sourcelink.json
+D:\CSharpEducation\CSharpEducation.Practice\Task1А\obj\Debug\net10.0\Task1А.dll
+D:\CSharpEducation\CSharpEducation.Practice\Task1А\obj\Debug\net10.0\refint\Task1А.dll
+D:\CSharpEducation\CSharpEducation.Practice\Task1А\obj\Debug\net10.0\Task1А.pdb
+D:\CSharpEducation\CSharpEducation.Practice\Task1А\obj\Debug\net10.0\Task1А.genruntimeconfig.cache
+D:\CSharpEducation\CSharpEducation.Practice\Task1А\obj\Debug\net10.0\ref\Task1А.dll
