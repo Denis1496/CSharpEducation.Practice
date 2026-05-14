@@ -18,8 +18,9 @@ class Program
                 count++;
             }
         }
+        double percent = 100 * count/str.Length;
         Console.Write(" The % char in str is: ");
-        Console.Write((100 * count)/str.Length);
+        Console.Write(percent);
         Console.WriteLine("%");
     }
 }
