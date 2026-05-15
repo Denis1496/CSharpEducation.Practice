@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharpEducation.Practice\\Practice1.Task3\\Practice1.Task3.csproj": {}
+    "D:\\CSharpEducation\\CSharpEducation.Practice\\Practice1.Task3\\Practice1.Task3.csproj": {}
   },
   "projects": {
-    "C:\\CSharpEducation.Practice\\Practice1.Task3\\Practice1.Task3.csproj": {
+    "D:\\CSharpEducation\\CSharpEducation.Practice\\Practice1.Task3\\Practice1.Task3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharpEducation.Practice\\Practice1.Task3\\Practice1.Task3.csproj",
+        "projectUniqueName": "D:\\CSharpEducation\\CSharpEducation.Practice\\Practice1.Task3\\Practice1.Task3.csproj",
         "projectName": "Practice1.Task3",
-        "projectPath": "C:\\CSharpEducation.Practice\\Practice1.Task3\\Practice1.Task3.csproj",
-        "packagesPath": "C:\\Users\\Denis14\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharpEducation.Practice\\Practice1.Task3\\obj\\",
+        "projectPath": "D:\\CSharpEducation\\CSharpEducation.Practice\\Practice1.Task3\\Practice1.Task3.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\CSharpEducation\\CSharpEducation.Practice\\Practice1.Task3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Denis14\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
