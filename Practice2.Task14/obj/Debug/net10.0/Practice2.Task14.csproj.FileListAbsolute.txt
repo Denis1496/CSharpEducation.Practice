@@ -1,0 +1,15 @@
+C:\CSharpEducation.Practice\Practice2.Task14\bin\Debug\net10.0\Practice2.Task14.exe
+C:\CSharpEducation.Practice\Practice2.Task14\bin\Debug\net10.0\Practice2.Task14.deps.json
+C:\CSharpEducation.Practice\Practice2.Task14\bin\Debug\net10.0\Practice2.Task14.runtimeconfig.json
+C:\CSharpEducation.Practice\Practice2.Task14\bin\Debug\net10.0\Practice2.Task14.dll
+C:\CSharpEducation.Practice\Practice2.Task14\bin\Debug\net10.0\Practice2.Task14.pdb
+C:\CSharpEducation.Practice\Practice2.Task14\obj\Debug\net10.0\Practice2.Task14.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpEducation.Practice\Practice2.Task14\obj\Debug\net10.0\Practice2.Task14.AssemblyInfoInputs.cache
+C:\CSharpEducation.Practice\Practice2.Task14\obj\Debug\net10.0\Practice2.Task14.AssemblyInfo.cs
+C:\CSharpEducation.Practice\Practice2.Task14\obj\Debug\net10.0\Practice2.Task14.csproj.CoreCompileInputs.cache
+C:\CSharpEducation.Practice\Practice2.Task14\obj\Debug\net10.0\Practice2.Task14.sourcelink.json
+C:\CSharpEducation.Practice\Practice2.Task14\obj\Debug\net10.0\Practice2.Task14.dll
+C:\CSharpEducation.Practice\Practice2.Task14\obj\Debug\net10.0\refint\Practice2.Task14.dll
+C:\CSharpEducation.Practice\Practice2.Task14\obj\Debug\net10.0\Practice2.Task14.pdb
+C:\CSharpEducation.Practice\Practice2.Task14\obj\Debug\net10.0\Practice2.Task14.genruntimeconfig.cache
+C:\CSharpEducation.Practice\Practice2.Task14\obj\Debug\net10.0\ref\Practice2.Task14.dll
