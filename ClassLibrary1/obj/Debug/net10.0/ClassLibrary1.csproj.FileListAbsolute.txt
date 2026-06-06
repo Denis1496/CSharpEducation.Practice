@@ -1,0 +1,16 @@
+C:\CSharpEducation.Practice\ClassLibrary1\bin\Debug\net10.0\ClassLibrary1.deps.json
+C:\CSharpEducation.Practice\ClassLibrary1\bin\Debug\net10.0\ClassLibrary1.dll
+C:\CSharpEducation.Practice\ClassLibrary1\bin\Debug\net10.0\ClassLibrary1.pdb
+C:\CSharpEducation.Practice\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpEducation.Practice\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\CSharpEducation.Practice\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.AssemblyInfo.cs
+C:\CSharpEducation.Practice\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\CSharpEducation.Practice\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.sourcelink.json
+C:\CSharpEducation.Practice\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.dll
+C:\CSharpEducation.Practice\ClassLibrary1\obj\Debug\net10.0\refint\ClassLibrary1.dll
+C:\CSharpEducation.Practice\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.pdb
+C:\CSharpEducation.Practice\ClassLibrary1\obj\Debug\net10.0\ref\ClassLibrary1.dll
+C:\CSharpEducation.Practice\ClassLibrary1\bin\Debug\net10.0\ClassLibrary2.dll
+C:\CSharpEducation.Practice\ClassLibrary1\bin\Debug\net10.0\ClassLibrary2.pdb
+C:\CSharpEducation.Practice\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\CSharpEducation.Practice\ClassLibrary1\obj\Debug\net10.0\ClassLib.E736BF3C.Up2Date

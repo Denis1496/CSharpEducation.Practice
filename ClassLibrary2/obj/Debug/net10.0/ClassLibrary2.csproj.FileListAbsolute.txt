@@ -1,0 +1,12 @@
+C:\CSharpEducation.Practice\ClassLibrary2\bin\Debug\net10.0\ClassLibrary2.deps.json
+C:\CSharpEducation.Practice\ClassLibrary2\bin\Debug\net10.0\ClassLibrary2.dll
+C:\CSharpEducation.Practice\ClassLibrary2\bin\Debug\net10.0\ClassLibrary2.pdb
+C:\CSharpEducation.Practice\ClassLibrary2\obj\Debug\net10.0\ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpEducation.Practice\ClassLibrary2\obj\Debug\net10.0\ClassLibrary2.AssemblyInfoInputs.cache
+C:\CSharpEducation.Practice\ClassLibrary2\obj\Debug\net10.0\ClassLibrary2.AssemblyInfo.cs
+C:\CSharpEducation.Practice\ClassLibrary2\obj\Debug\net10.0\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\CSharpEducation.Practice\ClassLibrary2\obj\Debug\net10.0\ClassLibrary2.sourcelink.json
+C:\CSharpEducation.Practice\ClassLibrary2\obj\Debug\net10.0\ClassLibrary2.dll
+C:\CSharpEducation.Practice\ClassLibrary2\obj\Debug\net10.0\refint\ClassLibrary2.dll
+C:\CSharpEducation.Practice\ClassLibrary2\obj\Debug\net10.0\ClassLibrary2.pdb
+C:\CSharpEducation.Practice\ClassLibrary2\obj\Debug\net10.0\ref\ClassLibrary2.dll
