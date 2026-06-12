@@ -72,8 +72,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2", "ClassLibra
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practice5", "Practice5", "{0CC0BC6A-CC91-4239-8D0A-CBB7280F0A20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class User1", "Class User1\Class User1.csproj", "{19E9E213-8A0F-4603-B91C-1ED374323356}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -200,10 +198,6 @@ Global
 		{14CE44B6-DE0E-4DB1-A0C5-00A71448F363}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14CE44B6-DE0E-4DB1-A0C5-00A71448F363}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14CE44B6-DE0E-4DB1-A0C5-00A71448F363}.Release|Any CPU.Build.0 = Release|Any CPU
-		{19E9E213-8A0F-4603-B91C-1ED374323356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{19E9E213-8A0F-4603-B91C-1ED374323356}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{19E9E213-8A0F-4603-B91C-1ED374323356}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{19E9E213-8A0F-4603-B91C-1ED374323356}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{6F47C1F4-9DCA-442E-9FDD-AC2CACAABF7C} = {C0CFA4EF-C624-4434-965F-B2788CF2D2FD}
