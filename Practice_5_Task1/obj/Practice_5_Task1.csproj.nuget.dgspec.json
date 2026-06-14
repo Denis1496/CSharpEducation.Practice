@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\ClassLibrary2\\ClassLibrary2.csproj": {}
+    "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\Practice_5_Task1\\Practice_5_Task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\ClassLibrary2\\ClassLibrary2.csproj": {
+    "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\Practice_5_Task1\\Practice_5_Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\ClassLibrary2\\ClassLibrary2.csproj",
-        "projectName": "ClassLibrary2",
-        "projectPath": "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\ClassLibrary2\\ClassLibrary2.csproj",
+        "projectUniqueName": "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\Practice_5_Task1\\Practice_5_Task1.csproj",
+        "projectName": "Practice_5_Task1",
+        "projectPath": "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\Practice_5_Task1\\Practice_5_Task1.csproj",
         "packagesPath": "C:\\Users\\Студент\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\ClassLibrary2\\obj\\",
+        "outputPath": "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\Practice_5_Task1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

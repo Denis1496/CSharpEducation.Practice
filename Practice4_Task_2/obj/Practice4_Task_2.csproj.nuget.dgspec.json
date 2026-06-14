@@ -1,33 +1,40 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharpEducation.Practice\\Practice4_Task_2\\Practice4_Task_2.csproj": {}
+    "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\Practice4_Task_2\\Practice4_Task_2.csproj": {}
   },
   "projects": {
-    "C:\\CSharpEducation.Practice\\ClassLibrary1\\ClassLibrary1.csproj": {
+    "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\ClassLibrary1\\ClassLibrary1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharpEducation.Practice\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectUniqueName": "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\ClassLibrary1\\ClassLibrary1.csproj",
         "projectName": "ClassLibrary1",
-        "projectPath": "C:\\CSharpEducation.Practice\\ClassLibrary1\\ClassLibrary1.csproj",
-        "packagesPath": "C:\\Users\\Denis14\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharpEducation.Practice\\ClassLibrary1\\obj\\",
+        "projectPath": "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\ClassLibrary1\\ClassLibrary1.csproj",
+        "packagesPath": "C:\\Users\\Студент\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\ClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Denis14\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Студент\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\CSharpEducation.Practice\\ClassLibrary2\\ClassLibrary2.csproj": {
-                "projectPath": "C:\\CSharpEducation.Practice\\ClassLibrary2\\ClassLibrary2.csproj"
+              "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\ClassLibrary2\\ClassLibrary2.csproj": {
+                "projectPath": "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\ClassLibrary2\\ClassLibrary2.csproj"
               }
             }
           }
@@ -42,10 +49,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -63,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -341,26 +349,33 @@
         }
       }
     },
-    "C:\\CSharpEducation.Practice\\ClassLibrary2\\ClassLibrary2.csproj": {
+    "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\ClassLibrary2\\ClassLibrary2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharpEducation.Practice\\ClassLibrary2\\ClassLibrary2.csproj",
+        "projectUniqueName": "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\ClassLibrary2\\ClassLibrary2.csproj",
         "projectName": "ClassLibrary2",
-        "projectPath": "C:\\CSharpEducation.Practice\\ClassLibrary2\\ClassLibrary2.csproj",
-        "packagesPath": "C:\\Users\\Denis14\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharpEducation.Practice\\ClassLibrary2\\obj\\",
+        "projectPath": "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\ClassLibrary2\\ClassLibrary2.csproj",
+        "packagesPath": "C:\\Users\\Студент\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\ClassLibrary2\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Denis14\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Студент\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -375,10 +390,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -396,7 +412,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -674,30 +690,37 @@
         }
       }
     },
-    "C:\\CSharpEducation.Practice\\Practice4_Task_2\\Practice4_Task_2.csproj": {
+    "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\Practice4_Task_2\\Practice4_Task_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharpEducation.Practice\\Practice4_Task_2\\Practice4_Task_2.csproj",
+        "projectUniqueName": "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\Practice4_Task_2\\Practice4_Task_2.csproj",
         "projectName": "Practice4_Task_2",
-        "projectPath": "C:\\CSharpEducation.Practice\\Practice4_Task_2\\Practice4_Task_2.csproj",
-        "packagesPath": "C:\\Users\\Denis14\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharpEducation.Practice\\Practice4_Task_2\\obj\\",
+        "projectPath": "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\Practice4_Task_2\\Practice4_Task_2.csproj",
+        "packagesPath": "C:\\Users\\Студент\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\Practice4_Task_2\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Denis14\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Студент\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\CSharpEducation.Practice\\ClassLibrary1\\ClassLibrary1.csproj": {
-                "projectPath": "C:\\CSharpEducation.Practice\\ClassLibrary1\\ClassLibrary1.csproj"
+              "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\ClassLibrary1\\ClassLibrary1.csproj": {
+                "projectPath": "C:\\Users\\Студент\\RiderProjects\\CSharpEducation.Practice\\ClassLibrary1\\ClassLibrary1.csproj"
               }
             }
           }
@@ -712,10 +735,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -733,7 +757,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
