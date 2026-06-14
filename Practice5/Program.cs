@@ -8,7 +8,6 @@ class Program
         {
             Name = name;
             Salary = salary;
-
         }
 
         string Name;
